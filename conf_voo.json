@@ -1,0 +1,14 @@
+{
+    "nome_drone": "Hidrone-J",
+    "bateria_max": 100,
+    "sensores": [
+        "Girosc\u00f3pio",
+        "Acalerometro",
+        "GPS"
+    ],
+    "ganhos_PID": {
+        "kp": 12.5,
+        "ki": 0.05,
+        "ka": 4.2
+    }
+}
